@@ -5,8 +5,8 @@
 
 # About me
 
-Location - Kolkata, India
-Age - 13
+- Location - Kolkata, India
+- Age - 13
 
 ## Specs
 - CPU: i5(10th)
