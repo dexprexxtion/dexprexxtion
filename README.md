@@ -4,6 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dexprexxtion&label=Profile%20views&color=8caaee&style=for-the-badge" alt="dexprexxtion's profile views" /> </p>
 
+<br>
+
+[![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexprexxtion&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ketan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexprexxtion&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
