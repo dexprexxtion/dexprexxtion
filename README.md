@@ -1,26 +1,40 @@
-- 👋 Hi, I’m @dexprexxtion
-- 👀 I’m interested in Python, AI, Tensorflow, Chatbots and a lot of the Hub, if you know what I mean... ;)
-- 🌱 I’m currently learning Python, AI, how to cook, writing clean code, how to not be bad coder, more AI frameworks and how to make sure my linux desktop doesn't break every 10 days.
-- 📫 You can reach me out at ketanchowdhury@protonmail.com and on Twitter at @dexprexxtion
+<h1 align="center">Hi 👋, I'm Dex @deprexxtion</h1>
+<h3 align="center">Flutter developer from Kolkata, India &#127470;&#127475</h3>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-# About me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dexprexxtion&label=Profile%20views&color=8caaee&style=for-the-badge" alt="dexprexxtion's profile views" /> </p>
 
-- Location - Kolkata, India
-- Age - 13
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 
-## Specs
-- CPU: i5(10th)
-- RAM: 8GB DDR4
-- OS: Garuda Linux x86_64
-- Kernel: 6.0.2-zen1-1-zen
-- DE: KDE Plasma 5.26.5
-- WM: KWin (X11)
-- GPU: GTX 780
+<p align="center">
 
-### Currently working on - Dexchat
+- **Languages**:
+  
+  ![Dart](https://img.shields.io/badge/Dart-beginnner-blue?style=for-the-badge&logo=dart&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-beginnner-%2314354C?style=for-the-badge&logo=python&logoColor=white)
+  
+  <br>
+  
+- **Frameworks**:
+  
+  ![Flutter](https://img.shields.io/badge/Flutter-beginnner-%232370ED?style=for-the-badge&logo=flutter&logoColor=white)
+  
+- **Software**:
+  
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![Pop!_OS](https://img.shields.io/badge/-Pop!__OS-cyan?style=for-the-badge&logo=popos&logoColor=black)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=github&logoColor=white)
+  ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  
+- **Hardware**:
+  
+  ![Intel](https://img.shields.io/badge/Intel-blue?style=for-the-badge&logo=intel&logoColor=white)
+  ![Nvidia](https://img.shields.io/badge/Nvidia-deepgreen?style=for-the-badge&logo=nvidia&logoColor=white)
+  ![Dell](https://img.shields.io/badge/dell-black?style=for-the-badge&logo=dell&logoColor=white)
+  ![Logitech](https://img.shields.io/badge/logitech-white?style=for-the-badge&logo=logitech&logoColor=black)
+  
 
-
-<!---
-dexprexxtion/dexprexxtion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
