@@ -7,7 +7,8 @@
 <br>
 
 [![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexprexxtion&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Ketan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexprexxtion&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Ketan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexprexxtion&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -43,3 +44,11 @@
   
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  
+   <div align="center"  class="icons-social" style="margin-left: 10px;">
+     <a style="margin-left: 10px;" target="_blank" href="https://github.com/dexprexxtion">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+     <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/dexprexxtion">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+     <a style="margin-left: 10px;" target="_blank" href="mailto://ketanchowdhury@protonmail.com">
+       <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="40" width="50">
