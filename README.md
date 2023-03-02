@@ -8,7 +8,7 @@
 
 [![Ketan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dexprexxtion&includeallcommits=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Ketan's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexprexxtion&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![dexprexxtion's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dexprexxtion)](https://github.com/anuraghazra/github-readme-stats)
+[![dexprexxtion's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dexprexxtion&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
