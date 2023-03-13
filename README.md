@@ -19,14 +19,16 @@
 
 - **Languages**:
   
-  ![Dart](https://img.shields.io/badge/Dart-beginnner-blue?style=for-the-badge&logo=dart&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-beginnner-%2314354C?style=for-the-badge&logo=python&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-beginner-blue?style=for-the-badge&logo=dart&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-beginner-%2314354C?style=for-the-badge&logo=python&logoColor=white)
   
   <br>
   
-- **Frameworks**:
+- **Frameworks & Tools**:
   
-  ![Flutter](https://img.shields.io/badge/Flutter-beginnner-%232370ED?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-beginner-%232370ED?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Tweepy](https://img.shields.io/badge/Tweepy-beginner-blue?style=for-the-badge&logo=twitter&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-beginner-blue?style=for-the-badge&logo=python&logoColor=white)
   
 - **Software**:
   
@@ -36,6 +38,10 @@
   ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
   ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+  ![Opera](https://img.shields.io/badge/Opera-red?style=for-the-badge&logo=opera&logoColor=white)
+  ![Bing](https://img.shields.io/badge/Bing-blue?style=for-the-badge&logo=microsoftbing&logoColor=white)
+  ![Spotify](https://img.shields.io/badge/Spotify-darkgreen?style=for-the-badge&logo=spotify&logoColor=white)
+  ![YT Music](https://img.shields.io/badge/Youtube%20Music-darkred?style=for-the-badge&logo=youtubemusic&logoColor=white)
   
 - **Hardware**:
   
