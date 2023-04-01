@@ -59,4 +59,4 @@
      <a style="margin-left: 10px;" target="_blank" href="https://twitter.com/dexprexxtion">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
      <a style="margin-left: 10px;" target="_blank" href="mailto://ketanchowdhury@protonmail.com">
-       <img src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="40" width="50">
+       <img src="https://img.icons8.com/plasticine/256/apple-mail.png" height="50" width="50">
