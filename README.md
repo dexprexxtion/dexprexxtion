@@ -42,6 +42,8 @@
   ![Bing](https://img.shields.io/badge/Bing-blue?style=for-the-badge&logo=microsoftbing&logoColor=white)
   ![Spotify](https://img.shields.io/badge/Spotify-darkgreen?style=for-the-badge&logo=spotify&logoColor=white)
   ![YT Music](https://img.shields.io/badge/Youtube%20Music-darkred?style=for-the-badge&logo=youtubemusic&logoColor=white)
+  ![Apple Music](https://img.shields.io/badge/Apple%20Music-red?style=for-the-badge&logo=applemusic&logoColor=white)
+	
   
 - **Hardware**:
   
