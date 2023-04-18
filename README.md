@@ -32,7 +32,8 @@
   ![Matplotlib](https://img.shields.io/badge/Matplotlib-beginner-blue?style=for-the-badge&logo=python&logoColor=white)
   
 - **Software**:
-  
+
+  ![Windows](https://img.shields.io/badge/windows%2011%20Insider%20Edition-blue?style=for-the-badge&logo=windows11&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![Pop!_OS](https://img.shields.io/badge/-Pop!__OS-cyan?style=for-the-badge&logo=popos&logoColor=black)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -48,8 +49,10 @@
   
 - **Hardware**:
   
-  ![Intel](https://img.shields.io/badge/Intel-blue?style=for-the-badge&logo=intel&logoColor=white)
-  ![Nvidia](https://img.shields.io/badge/Nvidia-deepgreen?style=for-the-badge&logo=nvidia&logoColor=white)
+  ![ASUS](https://img.shields.io/badge/Asus%20TUF%20Gaming%20A15-black?style=for-the-badge&logo=asus&logoColor=white)
+  ![Intel](https://img.shields.io/badge/Intel%20i5%202400-blue?style=for-the-badge&logo=intel&logoColor=white)
+  ![AMD](https://img.shields.io/badge/Amd%20Ryzen%204600H-darkred?style=for-the-badge&logo=amd&logoColor=white)
+  ![Nvidia](https://img.shields.io/badge/Nvidia%20GeForce%20GTX%201650-deepgreen?style=for-the-badge&logo=nvidia&logoColor=white)
   ![Dell](https://img.shields.io/badge/dell-black?style=for-the-badge&logo=dell&logoColor=white)
   ![Logitech](https://img.shields.io/badge/logitech-white?style=for-the-badge&logo=logitech&logoColor=black)
   
