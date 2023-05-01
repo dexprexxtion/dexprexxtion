@@ -53,7 +53,7 @@
   
   ![ASUS](https://img.shields.io/badge/Asus%20TUF%20Gaming%20A15-black?style=for-the-badge&logo=asus&logoColor=white)
   ![Intel](https://img.shields.io/badge/Intel%20i5%202400-blue?style=for-the-badge&logo=intel&logoColor=white)
-  ![AMD](https://img.shields.io/badge/Amd%20Ryzen%204600H-darkred?style=for-the-badge&logo=amd&logoColor=white)
+  ![AMD](https://img.shields.io/badge/Amd%20Ryzen%205%204600H-darkred?style=for-the-badge&logo=amd&logoColor=white)
   ![Nvidia](https://img.shields.io/badge/Nvidia%20GeForce%20GTX%201650-deepgreen?style=for-the-badge&logo=nvidia&logoColor=white)
   ![Dell](https://img.shields.io/badge/dell-black?style=for-the-badge&logo=dell&logoColor=white)
   ![Logitech](https://img.shields.io/badge/logitech-white?style=for-the-badge&logo=logitech&logoColor=black)
