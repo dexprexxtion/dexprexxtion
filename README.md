@@ -20,7 +20,8 @@
 <p align="center">
 
 - **Languages**:
-  
+
+  ![C++](https://img.shields.io/badge/C++-beginner-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-beginner-blue?style=for-the-badge&logo=dart&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-beginner-%2314354C?style=for-the-badge&logo=python&logoColor=white)
   
