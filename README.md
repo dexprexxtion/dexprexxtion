@@ -24,6 +24,9 @@
   ![C++](https://img.shields.io/badge/C++-beginner-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![Dart](https://img.shields.io/badge/Dart-beginner-blue?style=for-the-badge&logo=dart&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-beginner-%2314354C?style=for-the-badge&logo=python&logoColor=white)
+  ![Javascript](https://img.shields.io/badge/Javascript-beginner-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML5-intermediate-orange?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-beginner-purple?style=for-the-badge&logo=css3&logoColor=white)
   
   <br>
   
