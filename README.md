@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ketan @dexprexxtion</h1>
-<h1> This account is now permanently inactive as user has chosen a different career path, not to return </h1>
-<h2> Account preserved as a simple memoir. </h2>
+English/Englisch
+<h1 align="center"> This account is now permanently inactive as user has chosen a different career path, not to return </h1>
+<h2 align="center"> Account preserved as a simple memoir. </h2>
+German/Deutsch
+<h2 align="center"> Dieses Konto ist nun dauerhaft inaktiv, da der Benutzer einen anderen Karriereweg gewählt hat und nicht zurückkehren möchte </h1>
+<h3 align="center"> Konto als einfache Erinnerung aufbewahrt. </h2>
+Bengali/বাংলা
+<h2 align="center"> এই অ্যাকাউন্টটি এখন স্থায়ীভাবে নিষ্ক্রিয় কারণ ব্যবহারকারী একটি ভিন্ন ক্যারিয়ার পথ বেছে নিয়েছেন, ফিরে আসার জন্য নয় </h1>
+<h3 align="center"> একটি সাধারণ স্মৃতিকথা হিসেবে সংরক্ষিত। </h2>
+
+<h5>To contact/Kontakt/যোগাযোগের জন্য : ketanchowdhury@protonmail.com</h5>
 <!--
 <h3 align="center">developer from Kolkata, India &#127470;&#127475</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
